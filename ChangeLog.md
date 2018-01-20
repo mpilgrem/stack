@@ -72,6 +72,8 @@ Bug fixes:
   now only added when there are no local targets. This allows it to
   be to load code that uses replacements for `base`. See
   [#3589](https://github.com/commercialhaskell/stack/issues/3589#issuecomment)
+* `stack ghci` now uses correct paths for autogen files with
+  [#3791](https://github.com/commercialhaskell/stack/issues/3791)
 
 ## v1.6.3
 
